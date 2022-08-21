@@ -1,3 +1,4 @@
+package JavaCoding;
 import java.util.*;
 
 class Main
